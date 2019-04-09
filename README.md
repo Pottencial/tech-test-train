@@ -54,13 +54,13 @@ E((E)) -- 3 --> B((B))
 ```
 
 **Saída esperada:**
-Saída 1: 9
-Saída 2: 5
-Saída 3: 13
-Saída # 4: 22
-Saída # 5: NO TAIS ROTA
-Saída 6: 2
-Saída 7: 3
-Saída 8: 9
-Saída 9: 9
-Saída 10: 7
+1. 9
+2. 5
+3. 13
+4. 22
+5. NO TAIS ROTA
+6. 2
+7. 3
+8. 9
+9. 9
+10. 7
