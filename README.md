@@ -16,6 +16,10 @@ Avaliaremos uma variedade de aspectos, como design da solução, SOLID e orienta
  - A aplicação deve executar
  - Realize um fork do projeto
  - Adicione @pottencial (Pottencial Seguradora) como membro do seu fork. Você pode fazer isto em  https://gitlab.com/`your-user`/tech-test-train/settings/members
+ - Quando você começar, faça um commit vazio com a mensagem "Iniciando o teste de tecnologia" e quando terminar, faça o commit com uma mensagem "Finalizado o teste de tecnologia".
+ - Commit após cada ciclo de refatoração pelo menos.
+ - Não use branches.
+ - Tente não gastar mais de 3 horas para concluir o teste técnico.
  - Você deve prover evidências suficientes de que sua solução está completa indicando, no mínimo, que ela funciona utilizando os dados de teste que são fornecidos
 
 ## Problema
